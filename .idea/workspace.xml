@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39ac0521-deff-4d96-9034-615046b780f8" name="Default Changelist" comment="Initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dMy6VtztSleqIp8gkpEP4vVpYC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/kargo_takip" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39ac0521-deff-4d96-9034-615046b780f8" name="Default Changelist" comment="" />
+      <created>1592249082002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592249082002</updated>
+      <workItem from="1592249083539" duration="335000" />
+      <workItem from="1592249443584" duration="94000" />
+      <workItem from="1592249560594" duration="1374000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1592249302690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592249302690</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1592249337406</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592249337406</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1592249381685</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592249381685</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="veritabanı eklendi" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="158" width="424" height="485" key="FileChooserDialogImpl" timestamp="1592250350831">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state x="466" y="158" width="424" height="485" key="FileChooserDialogImpl/0.32.1366.736@0.32.1366.736" timestamp="1592250350831" />
+    <state x="530" y="300" width="305" height="201" key="Github.ShareDialog" timestamp="1592250882651">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state x="530" y="300" width="305" height="201" key="Github.ShareDialog/0.32.1366.736@0.32.1366.736" timestamp="1592250882651" />
+    <state x="457" y="87" width="441" height="627" key="Github.UntrackedFilesDialog" timestamp="1592249591724">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state x="457" y="87" width="441" height="627" key="Github.UntrackedFilesDialog/0.32.1366.736@0.32.1366.736" timestamp="1592249591724" />
+    <state x="166" y="32" width="1024" height="736" key="SettingsEditor" timestamp="1592250358012">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state x="166" y="32" width="1024" height="736" key="SettingsEditor/0.32.1366.736@0.32.1366.736" timestamp="1592250358012" />
+    <state x="454" y="315" width="457" height="171" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592250830279">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state x="454" y="315" width="457" height="171" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.32.1366.736@0.32.1366.736" timestamp="1592250830279" />
+  </component>
+</project>
